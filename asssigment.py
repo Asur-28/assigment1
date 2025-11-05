@@ -7,3 +7,10 @@ print("subtraction: ",a-b)
 print("multiplication: ",a*b)
 
 
+# 1. question 2 
+
+
+a=input("enter your first name")
+b=input("enter your last name")
+
+print(f"\nHello, {a}{b}! welcome to the python program.")
